@@ -1,14 +1,6 @@
-# Getting Started with Creating Blogs React App
+# Learning React.js and Connecting to Json Server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-after downloading the zip file project, extract it and using Command Prompt or VS Code terminal run `npm install` to download the dependencies of the project.
+This is one of my first projects while I'am learning React.js, simply I used to get data from json server and post to it.
 
 ### `npm start`
 
@@ -21,3 +13,7 @@ You may also see any lint errors in the console.
 ### `npx json-server --watch data/db.json --port 8000`
 
 Launches the json server that carries the data of the blogs, once the server run you can get, post and delete blogs data.
+
+![home](https://github.com/Hussien-Haidar/dojo-blog_react/assets/125471428/14aecb1f-a5d6-4a56-97fa-58fed7c6582c)
+
+![add](https://github.com/Hussien-Haidar/dojo-blog_react/assets/125471428/b78f6314-8a91-46a3-80b1-cb0bd69dd8a9)
